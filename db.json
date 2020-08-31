@@ -6,8 +6,8 @@
       "description": "No opinions answered oh felicity is resolved hastened. Produced it friendly my if opinions humoured. Enjoy is wrong folly no taken. It sufficient instrument insipidity simplicity at interested. ",
       "price": 11110,
       "count": 0,
-      "rating":3;
-      "id":1;
+      "rating":3,
+      "id":1
     },
     {
       "imgUrl": "https://cdn0.vox-cdn.com/hermano/verge/product/image/9180/vpavic_190924_3684_0068_squ.jpg",
@@ -15,8 +15,8 @@
       "description": "No opinions answered oh felicity is resolved hastened. Produced it friendly my if opinions humoured. Enjoy is wrong folly no taken. It sufficient instrument insipidity simplicity at interested. ",
       "price": 35000,
       "count": 0,
-      "rating":4;
-      "id":2;
+      "rating":4,
+      "id":2
     },
     {
       "imgUrl": "https://rukminim1.flixcart.com/image/714/857/k1i6ikw0/shoe/r/m/g/bq3204-002-7-nike-black-white-anthracite-original-imafh2hv38ygyyfy.jpeg?q=50",
@@ -24,7 +24,7 @@
       "description": "No opinions answered oh felicity is resolved hastened. Produced it friendly my if opinions humoured. Enjoy is wrong folly no taken. It sufficient instrument insipidity simplicity at interested. ",
       "price": 5555,
       "count": 0,
-      "rating":3;
+      "rating":3,
       "id":3;
     },
     {
@@ -33,8 +33,8 @@
       "description": "No opinions answered oh felicity is resolved hastened. Produced it friendly my if opinions humoured. Enjoy is wrong folly no taken. It sufficient instrument insipidity simplicity at interested. ",
       "price": 4200,
       "count": 0,
-      "rating":4;
-      "id":4;
+      "rating":4,
+      "id":4
     },
     {
       "imgUrl": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1574443823-best-fitness-trackers-watches-for-women-letscom-1574443794.jpg",
@@ -42,8 +42,8 @@
       "description": "This Fitbit smartwatch is a favorite among our lab experts, thanks to its intuitive design, tracking capabilities, heart rate monitor, and impressive battery life (it lasts five to six days!).",
       "price": 4200,
       "count": 0,
-      "rating":5;
-      "id":5;
+      "rating":5,
+      "id":5,
     },
      {
       "imgUrl": "https://cdn0.vox-cdn.com/hermano/verge/product/image/9019/akrales_190307_3272_0020_squ.jpg",
@@ -51,8 +51,8 @@
       "description": "No opinions answered oh felicity is resolved hastened. Produced it friendly my if opinions humoured. Enjoy is wrong folly no taken. It sufficient instrument insipidity simplicity at interested. ",
       "price": 11110,
       "count": 0,
-      "rating":2;
-      "id":6;
+      "rating":2,
+      "id":6
     },
     {
       "imgUrl": "https://cdn0.vox-cdn.com/hermano/verge/product/image/9180/vpavic_190924_3684_0068_squ.jpg",
@@ -61,7 +61,7 @@
       "price": 35000,
       "count": 0,
       "rating":5,
-      "id":7;
+      "id":7
     },
     {
       "imgUrl": "https://rukminim1.flixcart.com/image/714/857/k1i6ikw0/shoe/r/m/g/bq3204-002-7-nike-black-white-anthracite-original-imafh2hv38ygyyfy.jpeg?q=50",
@@ -70,7 +70,7 @@
       "price": 5555,
        "count": 0,
       "rating":2,
-      "id":8;
+      "id":8
     },
     {
       "imgUrl": "https://rukminim1.flixcart.com/image/714/857/jmwch3k0/shoe/j/y/n/dg-292-white-blue-patti-10-digitrendzz-white-original-imaf9p36fkykfjqt.jpeg?q=50",
@@ -78,8 +78,8 @@
       "description": "No opinions answered oh felicity is resolved hastened. Produced it friendly my if opinions humoured. Enjoy is wrong folly no taken. It sufficient instrument insipidity simplicity at interested. ",
       "price": 4200,
       "count": 0,
-      "rating":5;
-      "id":9;
+      "rating":5,
+      "id":9
     },
     {
       "imgUrl": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1574443823-best-fitness-trackers-watches-for-women-letscom-1574443794.jpg",
@@ -87,8 +87,8 @@
       "description": "This Fitbit smartwatch is a favorite among our lab experts, thanks to its intuitive design, tracking capabilities, heart rate monitor, and impressive battery life (it lasts five to six days!).",
       "price": 4200,
        "count": 0,
-      "rating":5;
-      "id":10;
+      "rating":5,
+      "id":10
     }
     
   ]
